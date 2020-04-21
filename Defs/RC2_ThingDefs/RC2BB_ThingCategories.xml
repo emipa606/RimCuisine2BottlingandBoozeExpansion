@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Foods -->
+  <ThingCategoryDef>
+    <defName>RC2_Alcohol</defName>
+    <label>alcohol</label>
+    <parent>Drugs</parent>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <iconPath>RC2_UI/RC2_Icons/RC2_ThingCategories/AlcoholIcon</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>RC2_AlcoholPrecursors</defName>
+    <label>alcohol precursors</label>
+    <parent>Manufactured</parent>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <iconPath>RC2_UI/RC2_Icons/RC2_ThingCategories/AlcoholPrecursorIcon</iconPath>
+  </ThingCategoryDef>
+</Defs>

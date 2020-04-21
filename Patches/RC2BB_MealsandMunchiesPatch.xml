@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!--The following patches all look for the RimCuisine 2: Meals and Munchies submod and adds bulk recipes to the Cook-o-matic.  Otherwise, they aren't added.-->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_MakeVegetableJuiceBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_MakeTonicSodaBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_MakeFruitSodaBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_MakeEggnogBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_ProcessEnergyDrinkBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_MakeHotCocoaBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RecipeDef[defName = "RC2_MakeIcedTeaBulk"]</xpath>
+      <value>
+        <recipeUsers>
+          <li>RC2_Cookomatic</li>
+        </recipeUsers>
+      </value>
+    </match>
+  </Operation>
+</Patch>

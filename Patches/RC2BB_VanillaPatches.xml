@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Item Categories Stuff -->
+  <!--Adds beer to the new alcohol category.  It still exists in the base drug category too though.-->
+  <!--<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName = "Beer"]</xpath>
+		<value>
+			<thingCategories>
+				<li>RC2_Alcohol</li>
+			</thingCategories>
+		</value>
+	</Operation>-->
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "Beer"]/thingCategories</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "Beer"]</xpath>
+      <value>
+        <thingCategories>
+          <li>RC2_Alcohol</li>
+        </thingCategories>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName = "Beer"]/thingCategories</xpath>
+      <value>
+        <li>RC2_Alcohol</li>
+      </value>
+    </match>
+  </Operation>
+  <!-- Adds wort to the new alcohol precursor category.  Still remains in the old manufacturied category too.-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "Wort"]/thingCategories</xpath>
+    <value>
+      <li>RC2_AlcoholPrecursors</li>
+    </value>
+  </Operation>
+</Patch>
