@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_MakeVegetableJuice.label>make vegetable juice</RC2_MakeVegetableJuice.label>
+  <RC2_MakeVegetableJuice.description>Uses one or more vegetables to make delicious juice.  Makes 5.</RC2_MakeVegetableJuice.description>
+  <RC2_MakeVegetableJuice.jobString>Making juice.</RC2_MakeVegetableJuice.jobString>
+
+  <RC2_MakeTonicSoda.label>make tonic soda</RC2_MakeTonicSoda.label>
+  <RC2_MakeTonicSoda.description>Uses any kind of sweetener to make bubbly tonic soda.  Makes 5.</RC2_MakeTonicSoda.description>
+  <RC2_MakeTonicSoda.jobString>Making soda.</RC2_MakeTonicSoda.jobString>
+
+  <RC2_MakeFruitSoda.label>make fruit soda</RC2_MakeFruitSoda.label>
+  <RC2_MakeFruitSoda.description>Uses any kind of sweetener and a mix of fruits to make bubbly fruit soda.  Makes 5.</RC2_MakeFruitSoda.description>
+  <RC2_MakeFruitSoda.jobString>Making soda.</RC2_MakeFruitSoda.jobString>
+
+  <RC2_MakeEggnog.label>make eggnog</RC2_MakeEggnog.label>
+  <RC2_MakeEggnog.description>Make eggnog from eggs, milk, and sweeteners. Mmmm. Makes 5.</RC2_MakeEggnog.description>
+  <RC2_MakeEggnog.jobString>Making eggnog.</RC2_MakeEggnog.jobString>
+
+  <RC2_ProcessEnergyDrink.label>make energy drinks</RC2_ProcessEnergyDrink.label>
+  <RC2_ProcessEnergyDrink.description>Mix sugar, coffee beans or tea leaves to make energy drinks.Makes 5.</RC2_ProcessEnergyDrink.description>
+  <RC2_ProcessEnergyDrink.jobString>Making energy drinks.</RC2_ProcessEnergyDrink.jobString>
+
+  <RC2_MakeHotCocoa.label>make hot cocoa</RC2_MakeHotCocoa.label>
+  <RC2_MakeHotCocoa.description>Combines delicious chocolate and milk for a belly-warming treat.  Great for cold winter nights! Makes 5.</RC2_MakeHotCocoa.description>
+  <RC2_MakeHotCocoa.jobString>Making hot cocoa.</RC2_MakeHotCocoa.jobString>
+
+  <RC2_MakeIcedTea.label>make iced tea</RC2_MakeIcedTea.label>
+  <RC2_MakeIcedTea.description>Combines tea, a sweetener, and some fruit into a delicious drink fantastic for hot summer days.  Makes 5.</RC2_MakeIcedTea.description>
+  <RC2_MakeIcedTea.jobString>Making iced tea.</RC2_MakeIcedTea.jobString>
+
+
+</LanguageData>

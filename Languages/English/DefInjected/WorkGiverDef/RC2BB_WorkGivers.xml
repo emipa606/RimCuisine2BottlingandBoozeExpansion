@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC_DoBillsBrew.label>brew and distill alcohol</RC_DoBillsBrew.label>
+  <RC_DoBillsBrew.verb>brew</RC_DoBillsBrew.verb>
+  <RC_DoBillsBrew.gerund>brewing at</RC_DoBillsBrew.gerund>
+
+  <TakeBeerOutOfFermentingBarrel3.label>take product out of fermenting barrels</TakeBeerOutOfFermentingBarrel3.label>
+  <TakeBeerOutOfFermentingBarrel3.verb>take product</TakeBeerOutOfFermentingBarrel3.verb>
+  <TakeBeerOutOfFermentingBarrel3.gerund>taking product from</TakeBeerOutOfFermentingBarrel3.gerund>
+
+  <FillFermentingBarrel3.label>fill fermenting barrels</FillFermentingBarrel3.label>
+  <FillFermentingBarrel3.verb>fill</FillFermentingBarrel3.verb>
+  <FillFermentingBarrel3.gerund>filling</FillFermentingBarrel3.gerund>
+
+
+</LanguageData>

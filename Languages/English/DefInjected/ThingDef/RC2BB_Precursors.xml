@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_AmbrosiaMust.label>ambrosia must</RC2_AmbrosiaMust.label>
+  <RC2_AmbrosiaMust.description>Ambrosia Must.  This mixture is made up of freshly squeezed juice from the rare ambrosia fruit and the rest of the fruit, mashed into a pulp.  It is this substance that will then ferment in order to make the much-coveted Ambrosia Nectar.</RC2_AmbrosiaMust.description>
+
+  <RC2_AppleMust.label>apple must</RC2_AppleMust.label>
+  <RC2_AppleMust.description>Freshly squeezed apple juice along with the rest of the mashed apple.  Needs to ferment in a barrel in order to make cider.</RC2_AppleMust.description>
+
+  <RC2_CornMash.label>corn mash</RC2_CornMash.label>
+  <RC2_CornMash.description>This mixture is made up of mashed corn that has fermented in a barrel.  It needs to be distilled into whiskey.</RC2_CornMash.description>
+
+  <RC2_FruitMust.label>fruit must</RC2_FruitMust.label>
+  <RC2_FruitMust.description>Freshly squeezed fruit juice and pulp, stems, and seeds.  Needs to be fermented into fruit wine.</RC2_FruitMust.description>
+
+  <RC2_GinPrecursor.label>gin precursor</RC2_GinPrecursor.label>
+  <RC2_GinPrecursor.description>A mixture of vodka and juniper berries, this mixture needs to sit in a barrel for a bit in order for the juniper berry flavor to infuse into the vodka.</RC2_GinPrecursor.description>
+
+  <RC2_HoneyMust.label>honey must</RC2_HoneyMust.label>
+  <RC2_HoneyMust.description>Made of nothing but honey and water, this mixture needs to ferment in a barrel to make mead.</RC2_HoneyMust.description>
+
+  <RC2_MoonshinePrecursor.label>moonshine precursor</RC2_MoonshinePrecursor.label>
+  <RC2_MoonshinePrecursor.description>Made of fermented grains of questionable quality and spiked with chemfuel for strength and volume, this stuff needs to be distilled to make moonshine.</RC2_MoonshinePrecursor.description>
+
+  <RC2_RiceMash.label>rice mash</RC2_RiceMash.label>
+  <RC2_RiceMash.description>Mashed up rice that needs to ferment to become sake.</RC2_RiceMash.description>
+
+  <RC2_SugarcaneWort.label>sugarcane wort</RC2_SugarcaneWort.label>
+  <RC2_SugarcaneWort.description>Fermented juices of sugarcane, this needs to be distilled further in order to make rum.</RC2_SugarcaneWort.description>
+
+  <RC2_PotatoMash.label>potato mash</RC2_PotatoMash.label>
+  <RC2_PotatoMash.description>Fermented potato mash that needs to be distilled in order to make vodka.</RC2_PotatoMash.description>
+
+  <RC2_WheatWort.label>wheat wort</RC2_WheatWort.label>
+  <RC2_WheatWort.description>A mixture of wheat and hops that needs to ferment in a barrel to become ale.</RC2_WheatWort.description>
+
+  <RC2_GrapeMust.label>grape must</RC2_GrapeMust.label>
+  <RC2_GrapeMust.description>Freshly squeezed grape juice, pulp, and stems.  This stuff needs to ferment for a while in order to become wine.</RC2_GrapeMust.description>
+
+  <RC2_OatWort.label>oat wort</RC2_OatWort.label>
+  <RC2_OatWort.description>Mashed and unfermented oat mixture.  Needs fermentation to become stout.</RC2_OatWort.description>
+
+  <RC2_AgaveMosto.label>agave mosto</RC2_AgaveMosto.label>
+  <RC2_AgaveMosto.description>Agave Mosto is the name for the mashed up and fermented parts of the agave plant.  Needs distillation in order to become tequila.</RC2_AgaveMosto.description>
+
+  <RC2_KumisMust.label>kumis must</RC2_KumisMust.label>
+  <RC2_KumisMust.description>Kumis Must. Made from milk, water, and spices for use in making Kumis.</RC2_KumisMust.description>
+
+  <RC2_CoconutWort.label>coconut wort</RC2_CoconutWort.label>
+  <RC2_CoconutWort.description>Coconut wort is made from coconut flowers and the flesh of the coconuts themselves.  Its used in making Arrack.</RC2_CoconutWort.description>
+
+
+</LanguageData>

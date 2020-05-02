@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_Kumis.label>kumis</RC2_Kumis.label>
+  <RC2_Kumis.description>Kumis, made from milk (often horses milk, but any will work), is a lightly alcoholic beverage favored by nomads.</RC2_Kumis.description>
+  <RC2_Kumis.tools.0.label>bottle</RC2_Kumis.tools.0.label>
+  <RC2_Kumis.tools.1.label>neck</RC2_Kumis.tools.1.label>
+  <RC2_Kumis.ingestible.ingestCommandString>Drink {0}</RC2_Kumis.ingestible.ingestCommandString>
+  <RC2_Kumis.ingestible.ingestReportString>Drinking {0}.</RC2_Kumis.ingestible.ingestReportString>
+
+
+</LanguageData>

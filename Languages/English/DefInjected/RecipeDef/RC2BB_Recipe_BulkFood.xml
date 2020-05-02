@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_MakeVegetableJuiceBulk.label>make vegetable juice in bulk</RC2_MakeVegetableJuiceBulk.label>
+  <RC2_MakeVegetableJuiceBulk.description>Uses one or more vegetables to make delicious juice.  Makes 25.</RC2_MakeVegetableJuiceBulk.description>
+  <RC2_MakeVegetableJuiceBulk.jobString>Making juice.</RC2_MakeVegetableJuiceBulk.jobString>
+
+  <RC2_MakeTonicSodaBulk.label>make tonic soda in bulk</RC2_MakeTonicSodaBulk.label>
+  <RC2_MakeTonicSodaBulk.description>Uses any kind of sweetener to make bubbly tonic soda.  Makes 25.</RC2_MakeTonicSodaBulk.description>
+  <RC2_MakeTonicSodaBulk.jobString>Making soda.</RC2_MakeTonicSodaBulk.jobString>
+
+  <RC2_MakeFruitSodaBulk.label>make fruit soda in bulk</RC2_MakeFruitSodaBulk.label>
+  <RC2_MakeFruitSodaBulk.description>Uses any kind of sweetener and a mix of fruits to make bubbly fruit soda.  Makes 5.</RC2_MakeFruitSodaBulk.description>
+  <RC2_MakeFruitSodaBulk.jobString>Making soda.</RC2_MakeFruitSodaBulk.jobString>
+
+  <RC2_MakeEggnogBulk.label>make eggnog in bulk</RC2_MakeEggnogBulk.label>
+  <RC2_MakeEggnogBulk.description>Make eggnog from eggs, milk, and sweeteners. Mmmm. Makes 25.</RC2_MakeEggnogBulk.description>
+  <RC2_MakeEggnogBulk.jobString>Making eggnog.</RC2_MakeEggnogBulk.jobString>
+
+  <RC2_ProcessEnergyDrinkBulk.label>make energy drinks in bulk</RC2_ProcessEnergyDrinkBulk.label>
+  <RC2_ProcessEnergyDrinkBulk.description>Mix sugar, coffee beans, and fruit to make energy drinks. Makes 25.</RC2_ProcessEnergyDrinkBulk.description>
+  <RC2_ProcessEnergyDrinkBulk.jobString>Making energy drinks.</RC2_ProcessEnergyDrinkBulk.jobString>
+
+  <RC2_MakeHotCocoaBulk.label>make hot cocoa in bulk</RC2_MakeHotCocoaBulk.label>
+  <RC2_MakeHotCocoaBulk.description>Combines delicious chocolate and milk for a belly-warming treat.  Great for cold winter nights! Makes 25.</RC2_MakeHotCocoaBulk.description>
+  <RC2_MakeHotCocoaBulk.jobString>Making hot cocoa.</RC2_MakeHotCocoaBulk.jobString>
+
+  <RC2_MakeIcedTeaBulk.label>make iced tea in bulk</RC2_MakeIcedTeaBulk.label>
+  <RC2_MakeIcedTeaBulk.description>Combines tea, a sweetener, and some fruit into a delicious drink fantastic for hot summer days.  Makes 25.</RC2_MakeIcedTeaBulk.description>
+  <RC2_MakeIcedTeaBulk.jobString>Making iced tea.</RC2_MakeIcedTeaBulk.jobString>
+
+
+</LanguageData>

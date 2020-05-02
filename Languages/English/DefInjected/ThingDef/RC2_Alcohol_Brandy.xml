@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_Brandy.label>brandy</RC2_Brandy.label>
+  <RC2_Brandy.description>Discovered when trying to preserve and reduce the volume of wine by distilling it, Brandy became its own thing once found out the distillation process radically changed the flavor and smell (for the better).  Often drank after a meal to help with digestion, it packs quite a punch.</RC2_Brandy.description>
+  <RC2_Brandy.tools.0.label>bottle</RC2_Brandy.tools.0.label>
+  <RC2_Brandy.tools.1.label>neck</RC2_Brandy.tools.1.label>
+  <RC2_Brandy.ingestible.ingestCommandString>Drink {0}</RC2_Brandy.ingestible.ingestCommandString>
+  <RC2_Brandy.ingestible.ingestReportString>Drinking {0}.</RC2_Brandy.ingestible.ingestReportString>
+
+
+</LanguageData>
