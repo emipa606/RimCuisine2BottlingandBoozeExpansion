@@ -3,6 +3,7 @@
   <!-- Changes the name of wine as to not clash with the wine in the VFE Medival mod -->
   <Operation Class="PatchOperationConditional">
     <xpath>/Defs/ThingDef[defName = "VFEM_Wine"]</xpath>
+    <success>Always</success>
     <match Class="PatchOperationSequence">
       <success>Always</success>
       <operations>
