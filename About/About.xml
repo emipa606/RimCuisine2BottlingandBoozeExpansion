@@ -23,6 +23,7 @@
   <loadAfter>
     <li>brrainz.harmony</li>
     <li>Crustypeanut.RC2.Core</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.MedievalModule</li>
   </loadAfter>
   <description>Update of Crustypeanuts mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1833592532

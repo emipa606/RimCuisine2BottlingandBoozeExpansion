@@ -1,25 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
-  <!-- Changes the name of wine as to not clash with the wine in the VFE Medival mod -->
+  <!-- Changes the name of stuff as to not clash with the stuff in the VFE Medival mod -->
   <Operation Class="PatchOperationConditional">
     <xpath>/Defs/ThingDef[defName = "VFEM_Wine"]</xpath>
     <success>Always</success>
-    <match Class="PatchOperationSequence">
-      <success>Always</success>
-      <operations>
-        <li Class="PatchOperationReplace">
-          <xpath>/Defs/ThingDef[defName = "VFEM_Wine"]/label</xpath>
-          <value>
-            <label>wine (VFE)</label>
-          </value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>/Defs/ThingDef[defName = "RC2_Wine"]/label</xpath>
-          <value>
-            <label>wine (RC2)</label>
-          </value>
-        </li>
-      </operations>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/ThingDef[defName = "VFEM_Wine"]/label</xpath>
+      <value>
+        <label>wine (VFE)</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "VFEM_RawGrapes"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/ThingDef[defName = "VFEM_RawGrapes"]/label</xpath>
+      <value>
+        <label>grapes (VFE)</label>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName = "VFEM_Must"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/ThingDef[defName = "VFEM_Must"]/label</xpath>
+      <value>
+        <label>grape must (VFE)</label>
+      </value>
     </match>
   </Operation>
 </Patch>

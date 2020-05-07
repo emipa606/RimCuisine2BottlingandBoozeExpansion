@@ -3,7 +3,7 @@
   <!--The following patches all look for the RimCuisine 2: Meals and Munchies submod and adds bulk recipes to the Cook-o-matic.  Otherwise, they aren't added.-->
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_MakeVegetableJuiceBulk"]</xpath>
@@ -16,7 +16,7 @@
   </Operation>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_MakeTonicSodaBulk"]</xpath>
@@ -29,7 +29,7 @@
   </Operation>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_MakeFruitSodaBulk"]</xpath>
@@ -42,7 +42,7 @@
   </Operation>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_MakeEggnogBulk"]</xpath>
@@ -55,7 +55,7 @@
   </Operation>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_ProcessEnergyDrinkBulk"]</xpath>
@@ -68,7 +68,7 @@
   </Operation>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_MakeHotCocoaBulk"]</xpath>
@@ -81,7 +81,7 @@
   </Operation>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>[1.0] RimCuisine 2 Meals and Munchies</li>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
     </mods>
     <match Class="PatchOperationAdd">
       <xpath>/Defs/RecipeDef[defName = "RC2_MakeIcedTeaBulk"]</xpath>
