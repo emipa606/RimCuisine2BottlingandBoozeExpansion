@@ -3,7 +3,17 @@
   <ThingDef Name="RC2_AlcoholBase" Abstract="True">
     <thingClass>ThingWithComps</thingClass>
     <category>Item</category>
+    <descriptionHyperlinks>
+      <HediffDef>AlcoholHigh</HediffDef>
+      <HediffDef>AlcoholTolerance</HediffDef>
+      <HediffDef>Hangover</HediffDef>
+      <HediffDef>AlcoholAddiction</HediffDef>
+      <HediffDef>Cirrhosis</HediffDef>
+      <HediffDef>ChemicalDamageModerate</HediffDef>
+    </descriptionHyperlinks>
+    <socialPropernessMatters>true</socialPropernessMatters>
     <useHitPoints>true</useHitPoints>
+    <healthAffectsPrice>false</healthAffectsPrice>
     <selectable>true</selectable>
     <statBases>
       <MaxHitPoints>50</MaxHitPoints>
@@ -16,11 +26,15 @@
     <thingCategories>
       <li>RC2_Alcohol</li>
     </thingCategories>
+    <tradeTags>
+      <li>Drugs</li>
+    </tradeTags>
     <alwaysHaulable>true</alwaysHaulable>
     <comps>
       <li Class="CompProperties_Forbiddable" />
     </comps>
     <pathCost>15</pathCost>
+    <burnableByRecipe>true</burnableByRecipe>
     <resourceReadoutPriority>Last</resourceReadoutPriority>
     <drawGUIOverlay>true</drawGUIOverlay>
     <ingestible>
