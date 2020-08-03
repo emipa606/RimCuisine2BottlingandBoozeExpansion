@@ -51,14 +51,14 @@
   <Administer_RC2_Tequila.label>administer tequila</Administer_RC2_Tequila.label>
   <Administer_RC2_Tequila.jobString>Administering tequila.</Administer_RC2_Tequila.jobString>
 
+  <Administer_RC2_Vodka.label>administer vodka</Administer_RC2_Vodka.label>
+  <Administer_RC2_Vodka.jobString>Administering vodka.</Administer_RC2_Vodka.jobString>
+
   <Administer_RC2_Whiskey.label>administer whiskey</Administer_RC2_Whiskey.label>
   <Administer_RC2_Whiskey.jobString>Administering whiskey.</Administer_RC2_Whiskey.jobString>
 
   <Administer_RC2_Wine.label>administer wine</Administer_RC2_Wine.label>
   <Administer_RC2_Wine.jobString>Administering wine.</Administer_RC2_Wine.jobString>
-
-  <Administer_RC2_Vodka.label>administer vodka</Administer_RC2_Vodka.label>
-  <Administer_RC2_Vodka.jobString>Administering vodka.</Administer_RC2_Vodka.jobString>
 
 
 </LanguageData>

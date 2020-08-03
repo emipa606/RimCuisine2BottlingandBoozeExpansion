@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--============================== Main Categories ==============================-->
+  <ResearchProjectDef>
+    <defName>Brewing</defName>
+    <label>basic brewing</label>
+    <description>Build a brewery in order to begin brewing tasty beer, kumis, and wine!</description>
+    <baseCost>400</baseCost>
+    <tab>RimCuisine</tab>
+    <techLevel>Neolithic</techLevel>
+    <tags>
+      <li>TribalStart</li>
+    </tags>
+    <researchViewX>0</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>RC2_IntermediateBrewing</defName>
+    <label>intermediate brewing</label>
+    <description>Expand your alcoholic nature by being able to brew a whole bunch of new stuff!</description>
+    <tab>RimCuisine</tab>
+    <baseCost>400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <prerequisites>
+      <li>Brewing</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>RC2_AdvancedBrewing</defName>
+    <label>advanced brewing</label>
+    <description>Learn how to build a distillery to brew the strongest of alcohols and spirits!</description>
+    <tab>RimCuisine</tab>
+    <baseCost>400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>RC2_IntermediateBrewing</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+</Defs>
