@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RC2_Grog.label>grog</RC2_Grog.label>
   <RC2_Grog.description>Grog is made by watering down rum.  Mainly used to lengthen alcohol stores, it waters the drink down to make it more palatable too.</RC2_Grog.description>
   <RC2_Grog.tools.0.label>bottle</RC2_Grog.tools.0.label>
   <RC2_Grog.tools.1.label>neck</RC2_Grog.tools.1.label>
   <RC2_Grog.ingestible.ingestCommandString>Drink {0}</RC2_Grog.ingestible.ingestCommandString>
   <RC2_Grog.ingestible.ingestReportString>Drinking {0}.</RC2_Grog.ingestible.ingestReportString>
-
-
 </LanguageData>

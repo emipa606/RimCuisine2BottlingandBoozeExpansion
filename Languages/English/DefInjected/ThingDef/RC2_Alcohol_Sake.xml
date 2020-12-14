@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RC2_Sake.label>sake</RC2_Sake.label>
   <RC2_Sake.description>Made from the fermentation of rice, Sake is also known as 'rice wine', and originated in eastern cultures.  It has since spread across colonized space alongside humanity, enjoyed everywhere from glitterworlds to rimworlds.</RC2_Sake.description>
   <RC2_Sake.tools.0.label>bottle</RC2_Sake.tools.0.label>
   <RC2_Sake.tools.1.label>neck</RC2_Sake.tools.1.label>
   <RC2_Sake.ingestible.ingestCommandString>Drink {0}</RC2_Sake.ingestible.ingestCommandString>
   <RC2_Sake.ingestible.ingestReportString>Drinking {0}.</RC2_Sake.ingestible.ingestReportString>
-
-
 </LanguageData>

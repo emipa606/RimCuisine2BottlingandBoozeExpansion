@@ -1,33 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Joy Meal Base -->
-
   <RC2_VegetableJuice.label>vegetable juice</RC2_VegetableJuice.label>
   <RC2_VegetableJuice.description>A tasty drink made from squeezing one or more vegetables.  Tasty and healthy, but not very filling.</RC2_VegetableJuice.description>
-
   <RC2_Eggnog.label>eggnog</RC2_Eggnog.label>
   <RC2_Eggnog.description>A tasty drink made from a combination of eggs, milk, and sweeteners.  Great during the holidays!</RC2_Eggnog.description>
-
   <RC2_TonicSoda.label>tonic soda</RC2_TonicSoda.label>
   <RC2_TonicSoda.description>A tasty drink made from water and sweeteners.  Carbonated and sweet, but little flavor.</RC2_TonicSoda.description>
-
   <RC2_LiquidCheese.label>RimCo Liquid Cheese</RC2_LiquidCheese.label>
   <RC2_LiquidCheese.description>This delicious drink is made with 100% real cheese! Enjoy it on the go, during a meal, or whenever, this cheesy delight will brighten your day.  Comes in Sharp Cheddar, Bacon Ranch Cheddar, Smokey Gouda, Baby White, and Limburger! Brought to you by RimCo., the makers of Rim-Cola!</RC2_LiquidCheese.description>
-
   <RC2_FruitSoda.label>fruit soda</RC2_FruitSoda.label>
   <RC2_FruitSoda.description>A tasty drink made from water, fruit, and sweeteners.  Comes in a wide variety of flavors!</RC2_FruitSoda.description>
-
   <RC2_HotCocoa.label>hot cocoa</RC2_HotCocoa.label>
   <RC2_HotCocoa.description>A tasty drink made from milk and cocoa.  Keeps you warm in wintery nights!</RC2_HotCocoa.description>
-
   <RC2_IcedTea.label>iced tea</RC2_IcedTea.label>
   <RC2_IcedTea.description>A refreshing drink made from tea leaves, sugar, and fruit, usually citrus but others work too.  Keeps you cool on hot days!</RC2_IcedTea.description>
-
   <RC2_EnergyDrink.label>energy drink</RC2_EnergyDrink.label>
   <RC2_EnergyDrink.description>A sugary, often tangy drink made from excessive amounts of sugar, coffee and some fruit to taste.  Very high amounts of caffeine, don't drink too many of these!</RC2_EnergyDrink.description>
   <RC2_EnergyDrink.ingestible.ingestCommandString>Drink {0}</RC2_EnergyDrink.ingestible.ingestCommandString>
   <RC2_EnergyDrink.ingestible.ingestReportString>Drinking {0}.</RC2_EnergyDrink.ingestible.ingestReportString>
-
-
 </LanguageData>

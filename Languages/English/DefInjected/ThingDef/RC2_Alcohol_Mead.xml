@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RC2_Mead.label>mead</RC2_Mead.label>
   <RC2_Mead.description>Loved by violent northmen regardess of which planet they're from, Mead, also known as 'honey wine', is literally fermented bee vomit.  This, of course, only increases the amount of fanfare it gets as an alcoholic beverage.</RC2_Mead.description>
   <RC2_Mead.tools.0.label>bottle</RC2_Mead.tools.0.label>
   <RC2_Mead.tools.1.label>neck</RC2_Mead.tools.1.label>
   <RC2_Mead.ingestible.ingestCommandString>Drink {0}</RC2_Mead.ingestible.ingestCommandString>
   <RC2_Mead.ingestible.ingestReportString>Drinking {0}.</RC2_Mead.ingestible.ingestReportString>
-
-
 </LanguageData>

@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RC2_Vodka.label>vodka</RC2_Vodka.label>
   <RC2_Vodka.description>Vodka is a clear distilled beverage most often made from fermented potatoes. Thousands of flavors exist, but they all serve one main purpose: To get the imbiber completely shitfaced drunk.</RC2_Vodka.description>
   <RC2_Vodka.tools.0.label>bottle</RC2_Vodka.tools.0.label>
   <RC2_Vodka.tools.1.label>neck</RC2_Vodka.tools.1.label>
   <RC2_Vodka.ingestible.ingestCommandString>Drink {0}</RC2_Vodka.ingestible.ingestCommandString>
   <RC2_Vodka.ingestible.ingestReportString>Drinking {0}.</RC2_Vodka.ingestible.ingestReportString>
-
-
 </LanguageData>

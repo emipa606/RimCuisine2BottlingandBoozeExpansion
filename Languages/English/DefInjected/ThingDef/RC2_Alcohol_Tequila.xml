@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RC2_Tequila.label>tequila</RC2_Tequila.label>
   <RC2_Tequila.description>While originally made in only one region, Tequila has over the thousands of years been made in desert locations on many planets.  It is made from the blue agave plant that has been chopped up, fermented, and then distilled.  Often served with a shot of salt and lime, some varieties also come with a crunch, insectoid snack at the bottom of the bottle.</RC2_Tequila.description>
   <RC2_Tequila.tools.0.label>bottle</RC2_Tequila.tools.0.label>
   <RC2_Tequila.tools.1.label>neck</RC2_Tequila.tools.1.label>
   <RC2_Tequila.ingestible.ingestCommandString>Drink {0}</RC2_Tequila.ingestible.ingestCommandString>
   <RC2_Tequila.ingestible.ingestReportString>Drinking {0}.</RC2_Tequila.ingestible.ingestReportString>
-
-
 </LanguageData>
