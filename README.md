@@ -9,6 +9,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1833592532
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+	[tr]
+		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+		[td]https://github.com/emipa606/RimCuisine2BottlingandBoozeExpansion]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+	[/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
@@ -30,12 +39,8 @@ Welcome to RimCuisine 2: Bottling and Booze! This mod is all about alcohol.  Wel
 
 **Ambrosia Nectar:** A special type of fermented drink, Ambrosia nectar is made from, you guessed it, Ambrosia.  After turned into must at a brewery, it is then fermented in specialized casks that can only hold 5 at a time.  Fermentation takes a whole year, so don’t let it spoil due to temperature!   The finished product is the nectar of the gods.  Ambrosia Nectar is completely, utterly, and permanently addictive similarly to Luciferium. Unlike Luciferium, it doesn’t cause them to die if they stop taking it - instead, the withdrawing pawn is permanently in a poor mood and just can’t seem to feel as much joy.  Imbibing this drink puts the drinker into  a 15-day ‘drunken high’ where they feel similar to being drunk without the bad side effects (No I lied, they can’t really walk straight or work well while drunk)  Over this 15-day period the high slowly weakens until it goes away entirely and the pawn suffers from withdrawal effects.
 
-**Changes to Vanilla stuff:**  Regular Wort for Beer now requires barley! It still requires hops, just less of them than it did.  Hops are more of an addon than the main ingredient - this always bothered me.  Like, you don't make beer out of hops, you just use hops for flavoring and stuff.  Sure they go IN beer, but they AREN'T beer, get what I'm saying? eh?
+**Changes to Vanilla stuff:**  Regular Wort for Beer now requires barley! It still requires hops, just less of them than it did.  Hops are more of an addon than the main ingredient - this always bothered me.  Like, you don&apos;t make beer out of hops, you just use hops for flavoring and stuff.  Sure they go IN beer, but they AREN&apos;T beer, get what I&apos;m saying? eh?
 --------------------------------------------------
-
-Like my mods?** ko-fi.com/crustypeanut]Consider supporting me with delicious caffeine!**
-
--------------------------------------------------
 
 **To-do List:**
 
@@ -50,6 +55,7 @@ More alcohols?! Maybe!
 **Compatibilities:**
 
 Same compatibilities as RimCuisine 2! Go read my rant over there! ;)
+
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
 
