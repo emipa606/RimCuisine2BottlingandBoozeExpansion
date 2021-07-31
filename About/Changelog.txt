@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2BottlingandBoozeExpansion
 
+1.0.10.0 - Now points to the continued version and uses UF
+
+
 1.0.9.0 - Republish, some things went missing
 
 
