@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2BottlingandBoozeExpansion
 
+1.0.11.0 - Removed the old fermenting barrels as UF handles all of that now. Thank you cnsguy/Vapid!
+
+
 1.0.10.0 - Now points to the continued version and uses UF
 
 
