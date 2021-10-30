@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName = "BarrelProcessor"]</xpath>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "BarrelProcessor"]/comps/li[@Class="ProcessorFramework.CompProperties_Processor"]/processes</xpath>
+          <value>
+            <li>RC2_Wine_Process</li>
+            <li>RC2_Ale_Process</li>
+            <li>RC2_Stout_Process</li>
+            <li>RC2_Cider_Process</li>
+            <li>RC2_Mead_Process</li>
+            <li>RC2_FruitWine_Process</li>
+            <li>RC2_Sake_Process</li>
+            <li>RC2_AgaveMosto_Process</li>
+            <li>RC2_PotatoMash_Process</li>
+            <li>RC2_SugarcaneWort_Process</li>
+            <li>RC2_Gin_Process</li>
+            <li>RC2_CornMash_Process</li>
+            <li>RC2_AmbrosiaNectar_Process</li>
+            <li>RC2_Kumis_Process</li>
+            <li>RC2_CoconutWort_Process</li>
+          </value>
+        </li>
+        <li Class="PatchOperationConditional">
+          <success>Always</success>
+          <xpath>Defs/ProcessorFramework.ProcessDef[defName = "Beer"]/color</xpath>
+          <match Class="PatchOperationReplace">
+            <xpath>Defs/ProcessorFramework.ProcessDef[defName = "Beer"]/color</xpath>
+            <value>
+              <color>(128, 80, 48)</color>
+            </value>
+          </match>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

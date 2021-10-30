@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2BottlingandBoozeExpansion
 
+1.0.12.0 - As the Universal Fermenter has been superseded by [SYR] Processor Framework the mod has been updated to use this instead. The UF patch will still work to not loose any ongoing fermenting.
+
+
 1.0.11.0 - Removed the old fermenting barrels as UF handles all of that now. Thank you cnsguy/Vapid!
 
 
