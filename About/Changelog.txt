@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2BottlingandBoozeExpansion
 
+1.3.1 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=766264659]Misc. Bees n Honey[/url] via The Manual
+
+
 1.0.12.0 - As the Universal Fermenter has been superseded by [SYR] Processor Framework the mod has been updated to use this instead. The UF patch will still work to not loose any ongoing fermenting.
 
 

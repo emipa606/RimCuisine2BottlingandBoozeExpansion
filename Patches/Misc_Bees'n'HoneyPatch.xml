@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Misc. Bees'n'Honey</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs</xpath>
+          <value>
+            <RecipeDef>
+              <defName>Make_RC2Honey</defName>
+              <label>make jars of honey</label>
+              <description>Process honey from domesticated bees to make higher quality honey, typically produced from wild bees. It requires more honey than that one obtained.</description>
+              <jobString>making jars of honey.</jobString>
+              <workSpeedStat>CookSpeed</workSpeedStat>
+              <workSkill>Cooking</workSkill>
+              <effectWorking>Cook</effectWorking>
+              <workAmount>1000</workAmount>
+              <soundWorking>Recipe_Brewing</soundWorking>
+              <recipeUsers>
+                <li>Brewery</li>
+                <li>RC2_BrewingSpot</li>
+                <li>RC2_ElectricBrewery</li>
+              </recipeUsers>
+              <ingredients>
+                <li>
+                  <filter>
+                    <thingDefs>
+                      <li>Honey</li>
+                    </thingDefs>
+                  </filter>
+                  <count>3</count>
+                </li>
+              </ingredients>
+              <fixedIngredientFilter>
+                <thingDefs>
+                  <li>Honey</li>
+                </thingDefs>
+              </fixedIngredientFilter>
+              <defaultIngredientFilter>
+                <thingDefs>
+                  <li>Honey</li>
+                </thingDefs>
+              </defaultIngredientFilter>
+              <products>
+                <RC2_Honey>2</RC2_Honey>
+              </products>
+              <researchPrerequisite>RC2_IntermediateBrewing</researchPrerequisite>
+            </RecipeDef>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
