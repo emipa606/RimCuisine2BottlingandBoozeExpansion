@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RC2_Whiskey.label>whiskey</RC2_Whiskey.label>
+  <RC2_Whiskey.description>A favorite among old-timers and cowboys alike, Whiskey is made from distilled corn mash and then aged in wooden barrels.</RC2_Whiskey.description>
+  <RC2_Whiskey.tools.0.label>bottle</RC2_Whiskey.tools.0.label>
+  <RC2_Whiskey.tools.1.label>neck</RC2_Whiskey.tools.1.label>
+  <RC2_Whiskey.ingestible.ingestCommandString>Drink {0}</RC2_Whiskey.ingestible.ingestCommandString>
+  <RC2_Whiskey.ingestible.ingestReportString>Drinking {0}.</RC2_Whiskey.ingestible.ingestReportString>
+</LanguageData>

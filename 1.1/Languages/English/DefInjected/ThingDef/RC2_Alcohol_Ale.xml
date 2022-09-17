@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RC2_Ale.label>ale</RC2_Ale.label>
+  <RC2_Ale.description>Made from wheat, Ale has been a staple drink throughout the ages.  Surprisingly nutritious, ale is often drunk instead of water in more primitive societies and has a lower alcohol content than more 'festive' brews.</RC2_Ale.description>
+  <RC2_Ale.tools.0.label>bottle</RC2_Ale.tools.0.label>
+  <RC2_Ale.tools.1.label>neck</RC2_Ale.tools.1.label>
+  <RC2_Ale.ingestible.ingestCommandString>Drink {0}</RC2_Ale.ingestible.ingestCommandString>
+  <RC2_Ale.ingestible.ingestReportString>Drinking {0}.</RC2_Ale.ingestible.ingestReportString>
+</LanguageData>
