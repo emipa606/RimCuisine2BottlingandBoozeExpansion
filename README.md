@@ -11,6 +11,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1833592532
 - As the Universal Fermenter has been superseded by https://steamcommunity.com/sharedfiles/filedetails/?id=2633514537][SYR] Processor Framework the mod has been updated to use this instead.
 - The old UF-patch will still work to not loose any ongoing fermenting progress.
 - The old fermenting barrels are removed in 1.3
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=766264659]Misc. Bees'n'Honey via The Manual
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
