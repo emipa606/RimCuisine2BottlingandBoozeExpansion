@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2BottlingandBoozeExpansion
 
+1.4.2 - Added inheritance of alcohol defs. Should be working better now, thanks DkPepper for the input
+
+
 1.4.1 - Updated to 1.4.
 Used DeepL to update translations for ChineseSimplified, French, German, Russian
 

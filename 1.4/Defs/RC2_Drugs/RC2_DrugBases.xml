@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Name="RC2_AlcoholBase" Abstract="True">
-    <thingClass>ThingWithComps</thingClass>
-    <category>Item</category>
+  <ThingDef Name="RC2_AlcoholBase" ParentName="DrugBase" Abstract="True">
     <descriptionHyperlinks>
       <HediffDef>AlcoholHigh</HediffDef>
       <HediffDef>AlcoholTolerance</HediffDef>
@@ -12,36 +10,13 @@
       <HediffDef>ChemicalDamageModerate</HediffDef>
     </descriptionHyperlinks>
     <socialPropernessMatters>true</socialPropernessMatters>
-    <useHitPoints>true</useHitPoints>
-    <healthAffectsPrice>false</healthAffectsPrice>
-    <selectable>true</selectable>
-    <statBases>
-      <MaxHitPoints>50</MaxHitPoints>
-      <Flammability>1.0</Flammability>
-      <DeteriorationRate>2</DeteriorationRate>
-      <Beauty>-4</Beauty>
-    </statBases>
-    <altitudeLayer>Item</altitudeLayer>
     <stackLimit>25</stackLimit>
     <thingCategories>
       <li>RC2_Alcohol</li>
     </thingCategories>
-    <tradeTags>
-      <li>Drugs</li>
-    </tradeTags>
-    <alwaysHaulable>true</alwaysHaulable>
-    <comps>
-      <li Class="CompProperties_Forbiddable" />
-    </comps>
     <pathCost>15</pathCost>
-    <burnableByRecipe>true</burnableByRecipe>
-    <resourceReadoutPriority>Last</resourceReadoutPriority>
-    <drawGUIOverlay>true</drawGUIOverlay>
     <ingestible>
-      <preferability>NeverForNutrition</preferability>
-      <maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
       <chairSearchRadius>25</chairSearchRadius>
     </ingestible>
-    <storedConceptLearnOpportunity>DrugPolicies</storedConceptLearnOpportunity>
   </ThingDef>
 </Defs>

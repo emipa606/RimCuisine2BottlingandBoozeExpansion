@@ -35,7 +35,7 @@
     <li>Mlie.RC2.Core</li>
     <li>OskarPotocki.VanillaFactionsExpanded.MedievalModule</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Crustypeanuts mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1833592532
 
@@ -47,16 +47,20 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1833592532
 - The old fermenting barrels are removed in 1.3
 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=766264659]Misc. Bees'n'Honey[/url] via The Manual
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/RimCuisine2BottlingandBoozeExpansion][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
 	[/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [b]RimCuisine 2: Bottling and Booze Expansion for 1.0[/b]
 
@@ -101,5 +105,6 @@ Same compatibilities as RimCuisine 2! Go read my rant over there! ;)
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-</description>
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2069596932]Last updated 2023-01-11[/url]</description>
 </ModMetaData>
