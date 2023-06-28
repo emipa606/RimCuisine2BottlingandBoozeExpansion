@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Building should have class "ExpandableFermenting.Building_Fermenting",
+		as well as comp "ExpandableFermenting.CompProperties_Fermenting" and
+		<tickerType>Rare</tickerType>. "CompProperties_TemperatureRuinable" is
+		optional.
+		
+		Alternatively, can have class
+		"ExpandableFermenting.Building_Processing",
+		with comp
+		"ExpandableFermenting.CompProperties_Processing".
+		<tickerType>Rare</tickerType> is still required,
+		and "CompProperties_TemperatureRuinable" is still
+		optional. -->
+  <RC2_BrewingSpot.label>brewing spot</RC2_BrewingSpot.label>
+  <RC2_BrewingSpot.description>A place for preparing the precursors for some simple kinds of alcohol.</RC2_BrewingSpot.description>
+  <RC2_ElectricBrewery.label>electric brewery</RC2_ElectricBrewery.label>
+  <RC2_ElectricBrewery.description>A work station with all the equipment needed to mix wort, mash, and must for alcohol production. Powered version improved performance.</RC2_ElectricBrewery.description>
+  <RC2_ElectricDistiller.label>electric distiller</RC2_ElectricDistiller.label>
+  <RC2_ElectricDistiller.description>A set of equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present.  Powered by electricity.</RC2_ElectricDistiller.description>
+  <RC2_Distiller.label>distiller</RC2_Distiller.label>
+  <RC2_Distiller.description>A set of wood-fueled equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present. Built sturdier than its electrically-powered cousin.</RC2_Distiller.description>
+  <!-- <ThingDef ParentName="BuildingBase">
+		<defName>FermentingBarrel</defName>
+		<label>fermenting barrel</label>
+		<description>A barrel for fermenting raw wort into beer.</description>
+		<thingClass>ExpandableFermenting.Building_Fermenting</thingClass> 
+		<graphicData>
+			<texPath>Things/Building/Production/FermentingBarrel</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<damageData>
+				<rect>(0.05,0.1,0.9,0.9)</rect>
+			</damageData>
+			<shadowData>
+				<volume>(0.75, 0.35, 0.33)</volume>
+			</shadowData>
+		</graphicData>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.45</fillPercent>
+		<pathCost>60</pathCost>
+		<thingCategories>
+			<li>BuildingsProduction</li>
+		</thingCategories>
+		<statBases>
+			<WorkToBuild>600</WorkToBuild>
+			<Mass>10</Mass>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<costList>
+			<Steel>10</Steel>
+			<WoodLog>30</WoodLog>
+		</costList>
+		<comps>
+			<li Class="CompProperties_TemperatureRuinable">
+				<minSafeTemperature>-1</minSafeTemperature>
+				<maxSafeTemperature>32</maxSafeTemperature>
+				<progressPerDegreePerTick>0.00001</progressPerDegreePerTick>
+			</li>
+			<li Class="ExpandableFermenting.CompProperties_Fermenting">
+				<ingredientDef>Wort</ingredientDef>
+				<productDef>Beer</productDef> 
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<tickerType>Normal</tickerType>
+		<rotatable>true</rotatable>
+		<designationCategory>Production</designationCategory>
+		<constructEffect>ConstructWood</constructEffect>
+		<researchPrerequisites>
+			<li>Brewing</li>
+		</researchPrerequisites>
+	</ThingDef> -->
+</LanguageData>

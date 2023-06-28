@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RC2_Gin.label>gin</RC2_Gin.label>
+  <RC2_Gin.description>Gin is actually a distilled drink made from the flavoring of a base alcohol, usually vodka, with Juniper berries. It is mostly found in northern climates, where Juniper berries can be easily grown or gathered.</RC2_Gin.description>
+  <RC2_Gin.tools.0.label>bottle</RC2_Gin.tools.0.label>
+  <RC2_Gin.tools.1.label>neck</RC2_Gin.tools.1.label>
+  <RC2_Gin.ingestible.ingestCommandString>Drink {0}</RC2_Gin.ingestible.ingestCommandString>
+  <RC2_Gin.ingestible.ingestReportString>Drinking {0}.</RC2_Gin.ingestible.ingestReportString>
+</LanguageData>

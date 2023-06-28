@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Building should have class "ExpandableFermenting.Building_Fermenting",
+		as well as comp "ExpandableFermenting.CompProperties_Fermenting" and
+		<tickerType>Rare</tickerType>. "CompProperties_TemperatureRuinable" is
+		optional.
+		
+		Alternatively, can have class
+		"ExpandableFermenting.Building_Processing",
+		with comp
+		"ExpandableFermenting.CompProperties_Processing".
+		<tickerType>Rare</tickerType> is still required,
+		and "CompProperties_TemperatureRuinable" is still
+		optional. -->
+  <RC2_BrewingSpot.label>brewing spot</RC2_BrewingSpot.label>
+  <RC2_BrewingSpot.description>A place for preparing the precursors for some simple kinds of alcohol.</RC2_BrewingSpot.description>
+  <RC2_ElectricBrewery.label>electric brewery</RC2_ElectricBrewery.label>
+  <RC2_ElectricBrewery.description>A work station with all the equipment needed to mix wort, mash, and must for alcohol production. Powered version improved performance.</RC2_ElectricBrewery.description>
+  <RC2_ElectricDistiller.label>electric distiller</RC2_ElectricDistiller.label>
+  <RC2_ElectricDistiller.description>A set of equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present.  Powered by electricity.</RC2_ElectricDistiller.description>
+  <RC2_Distiller.label>distiller</RC2_Distiller.label>
+  <RC2_Distiller.description>A set of wood-fueled equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present. Built sturdier than its electrically-powered cousin.</RC2_Distiller.description>
+  <!-- <ThingDef ParentName="BuildingBase">
+		<defName>FermentingBarrel</defName>
+		<label>fermenting barrel</label>
+		<description>A barrel for fermenting raw wort into beer.</description>
+		<thingClass>ExpandableFermenting.Building_Fermenting</thingClass> 
+		<graphicData>
+			<texPath>Things/Building/Production/FermentingBarrel</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<damageData>
+				<rect>(0.05,0.1,0.9,0.9)</rect>
+			</damageData>
+			<shadowData>
+				<volume>(0.75, 0.35, 0.33)</volume>
+			</shadowData>
+		</graphicData>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>0.45</fillPercent>
+		<pathCost>60</pathCost>
+		<thingCategories>
+			<li>BuildingsProduction</li>
+		</thingCategories>
+		<statBases>
+			<WorkToBuild>600</WorkToBuild>
+			<Mass>10</Mass>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<costList>
+			<Steel>10</Steel>
+			<WoodLog>30</WoodLog>
+		</costList>
+		<comps>
+			<li Class="CompProperties_TemperatureRuinable">
+				<minSafeTemperature>-1</minSafeTemperature>
+				<maxSafeTemperature>32</maxSafeTemperature>
+				<progressPerDegreePerTick>0.00001</progressPerDegreePerTick>
+			</li>
+			<li Class="ExpandableFermenting.CompProperties_Fermenting">
+				<ingredientDef>Wort</ingredientDef>
+				<productDef>Beer</productDef> 
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<tickerType>Normal</tickerType>
+		<rotatable>true</rotatable>
+		<designationCategory>Production</designationCategory>
+		<constructEffect>ConstructWood</constructEffect>
+		<researchPrerequisites>
+			<li>Brewing</li>
+		</researchPrerequisites>
+	</ThingDef> -->
+  <RC2_WineFermentingBarrel.label>wine fermenting barrel</RC2_WineFermentingBarrel.label>
+  <RC2_WineFermentingBarrel.description>A barrel for fermenting grape must into wine.</RC2_WineFermentingBarrel.description>
+  <RC2_AleFermentingBarrel.label>ale fermenting barrel</RC2_AleFermentingBarrel.label>
+  <RC2_AleFermentingBarrel.description>A barrel for fermenting wheat wort into ale.</RC2_AleFermentingBarrel.description>
+  <RC2_StoutFermentingBarrel.label>stout fermenting barrel</RC2_StoutFermentingBarrel.label>
+  <RC2_StoutFermentingBarrel.description>A barrel for fermenting oat wort into stout.</RC2_StoutFermentingBarrel.description>
+  <RC2_CiderFermentingBarrel.label>cider fermenting barrel</RC2_CiderFermentingBarrel.label>
+  <RC2_CiderFermentingBarrel.description>A barrel for fermenting apple must into cider.</RC2_CiderFermentingBarrel.description>
+  <RC2_MeadFermentingBarrel.label>mead fermenting barrel</RC2_MeadFermentingBarrel.label>
+  <RC2_MeadFermentingBarrel.description>A barrel for fermenting honey must into mead.</RC2_MeadFermentingBarrel.description>
+  <RC2_FruitWineFermentingBarrel.label>fruit wine fermenting barrel</RC2_FruitWineFermentingBarrel.label>
+  <RC2_FruitWineFermentingBarrel.description>A barrel for fermenting fruit must into fruit wine.</RC2_FruitWineFermentingBarrel.description>
+  <RC2_SakeFermentingBarrel.label>sake fermenting barrel</RC2_SakeFermentingBarrel.label>
+  <RC2_SakeFermentingBarrel.description>A barrel for fermenting rice mash into sake.</RC2_SakeFermentingBarrel.description>
+  <RC2_TequilaFermentingBarrel.label>tequila fermenting barrel</RC2_TequilaFermentingBarrel.label>
+  <RC2_TequilaFermentingBarrel.description>A barrel for fermenting raw agaves into agave mosto, which then needs distillation afterwards.</RC2_TequilaFermentingBarrel.description>
+  <RC2_VodkaFermentingBarrel.label>vodka fermenting barrel</RC2_VodkaFermentingBarrel.label>
+  <RC2_VodkaFermentingBarrel.description>A barrel for fermenting raw potatoes into potato mash, which then requires distillation into vodka.</RC2_VodkaFermentingBarrel.description>
+  <RC2_RumFermentingBarrel.label>rum fermenting barrel</RC2_RumFermentingBarrel.label>
+  <RC2_RumFermentingBarrel.description>A barrel for fermenting raw sugarcane into sugarcane wort, which then needs distillation into rum.</RC2_RumFermentingBarrel.description>
+  <RC2_GinFermentingBarrel.label>gin fermenting barrel</RC2_GinFermentingBarrel.label>
+  <RC2_GinFermentingBarrel.description>A barrel for 'marinating' gin precursor made from juniper berries and vodka into gin. Just needs a few days for the vodka to properly absorb the flavor.</RC2_GinFermentingBarrel.description>
+  <RC2_WhiskeyFermentingBarrel.label>whiskey fermenting barrel</RC2_WhiskeyFermentingBarrel.label>
+  <RC2_WhiskeyFermentingBarrel.description>A barrel for fermenting raw corn into corn mash, which then needs distillation into whiskey.</RC2_WhiskeyFermentingBarrel.description>
+  <RC2_AmbrosiaFermentingBarrel.label>ambrosia fermenting barrel</RC2_AmbrosiaFermentingBarrel.label>
+  <RC2_AmbrosiaFermentingBarrel.description>A barrel for fermenting ambrosia must into ambrosia nectar.  Takes a full year to ferment.</RC2_AmbrosiaFermentingBarrel.description>
+  <RC2_KumisFermentingBarrel.label>kumis fermenting barrel</RC2_KumisFermentingBarrel.label>
+  <RC2_KumisFermentingBarrel.description>A barrel for fermenting kumis must into kumis.</RC2_KumisFermentingBarrel.description>
+  <RC2_ArrackFermentingBarrel.label>arrack fermenting barrel</RC2_ArrackFermentingBarrel.label>
+  <RC2_ArrackFermentingBarrel.description>A barrel for fermenting coconuts into coconut wort, which then requires distillation into arrack.</RC2_ArrackFermentingBarrel.description>
+</LanguageData>

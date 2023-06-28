@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RC2_Cider.label>cider</RC2_Cider.label>
+  <RC2_Cider.description>Cider is an alcoholic beverage made from the fermentation of apple juice.  Quite popular during holidays and in more northern climates.</RC2_Cider.description>
+  <RC2_Cider.tools.0.label>bottle</RC2_Cider.tools.0.label>
+  <RC2_Cider.tools.1.label>neck</RC2_Cider.tools.1.label>
+  <RC2_Cider.ingestible.ingestCommandString>Drink {0}</RC2_Cider.ingestible.ingestCommandString>
+  <RC2_Cider.ingestible.ingestReportString>Drinking {0}.</RC2_Cider.ingestible.ingestReportString>
+</LanguageData>

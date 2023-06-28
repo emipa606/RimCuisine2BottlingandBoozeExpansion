@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RC2_Rum.label>rum</RC2_Rum.label>
+  <RC2_Rum.description>Rum is made from fermented and distilled sugarcane.  It is favored by pirates everwhere and packs a punch.</RC2_Rum.description>
+  <RC2_Rum.tools.0.label>bottle</RC2_Rum.tools.0.label>
+  <RC2_Rum.tools.1.label>neck</RC2_Rum.tools.1.label>
+  <RC2_Rum.ingestible.ingestCommandString>Drink {0}</RC2_Rum.ingestible.ingestCommandString>
+  <RC2_Rum.ingestible.ingestReportString>Drinking {0}.</RC2_Rum.ingestible.ingestReportString>
+</LanguageData>
