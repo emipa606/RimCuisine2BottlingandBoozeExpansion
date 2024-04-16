@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkTypeDef>
+    <defName>RC2_Brewing</defName>
+    <labelShort>Brewer</labelShort>
+    <pawnLabel>Brewer</pawnLabel>
+    <gerundLabel>brewing</gerundLabel>
+    <description>Brew and distill alcohol.</description>
+    <verb>Brew</verb>
+    <naturalPriority>980</naturalPriority>
+    <relevantSkills>
+      <li>Cooking</li>
+    </relevantSkills>
+    <workTags>
+      <li>Cooking</li>
+      <li>ManualSkilled</li>
+    </workTags>
+  </WorkTypeDef>
+</Defs>

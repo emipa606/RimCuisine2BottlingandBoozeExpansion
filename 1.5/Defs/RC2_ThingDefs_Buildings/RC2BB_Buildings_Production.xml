@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RC2_BrewingSpot</defName>
+    <label>brewing spot</label>
+    <description>A place for preparing the precursors for some simple kinds of alcohol.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Buildings/BrewingSpot/BrewingSpot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <statBases>
+      <WorkToBuild>0</WorkToBuild>
+    </statBases>
+    <scatterableOnMapGen>false</scatterableOnMapGen>
+    <useHitPoints>False</useHitPoints>
+    <size>(1,1)</size>
+    <designationCategory>RC2_RimCuisine</designationCategory>
+    <passability>Standable</passability>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <sowTag>SupportPlantsOnly</sowTag>
+      <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <researchPrerequisites>
+      <li>Brewing</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>RC2_ElectricBrewery</defName>
+    <label>electric brewery</label>
+    <description>A work station with all the equipment needed to mix wort, mash, and must for alcohol production. Powered version improved performance.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Buildings/ElectricBrewery/ElectricBrewery</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3.5,1.5)</drawSize>
+      <shadowData>
+        <volume>(2.8, 0.3, 0.54)</volume>
+        <offset>(0, 0, -0.18)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.3,0,2.7,1)</rect>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <constructEffect>ConstructWood</constructEffect>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <Steel>120</Steel>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <WorkTableWorkSpeedFactor>2.0</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(3,1)</size>
+    <designationCategory>RC2_RimCuisine</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>200</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>3</heatPerSecond>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <researchPrerequisites>
+      <li>RC2_IntermediateBrewing</li>
+      <li>Electricity</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>RC2_ElectricDistiller</defName>
+    <label>electric distiller</label>
+    <description>A set of equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present.  Powered by electricity.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Buildings/Distiller/Distiller</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3, 3)</drawSize>
+      <drawRotated>false</drawRotated>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <constructEffect>ConstructWood</constructEffect>
+    <costList>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <Steel>120</Steel>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Flammability>2.0</Flammability>
+      <WorkTableWorkSpeedFactor>2.0</WorkTableWorkSpeedFactor>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2,2)</size>
+    <designationCategory>RC2_RimCuisine</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>true</shortCircuitInRain>
+        <basePowerConsumption>250</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.9</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <chanceNeverExplodeFromDamage>0.5</chanceNeverExplodeFromDamage>
+        <preExplosionSpawnChance>1</preExplosionSpawnChance>
+        <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>3</heatPerSecond>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <researchPrerequisites>
+      <li>RC2_AdvancedBrewing</li>
+      <li>Electricity</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>RC2_Distiller</defName>
+    <label>distiller</label>
+    <description>A set of wood-fueled equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present. Built sturdier than its electrically-powered cousin.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Buildings/DistillerFueled/DistillerFueled</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3, 3)</drawSize>
+      <drawRotated>false</drawRotated>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <constructEffect>ConstructWood</constructEffect>
+    <costList>
+      <Steel>120</Steel>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2100</WorkToBuild>
+      <MaxHitPoints>350</MaxHitPoints>
+      <Flammability>1.5</Flammability>
+      <WorkTableWorkSpeedFactor>1.0</WorkTableWorkSpeedFactor>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2,2)</size>
+    <designationCategory>RC2_RimCuisine</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>100.0</fuelConsumptionRate>
+        <fuelCapacity>50.0</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>3.9</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <chanceNeverExplodeFromDamage>0.0</chanceNeverExplodeFromDamage>
+        <preExplosionSpawnChance>1</preExplosionSpawnChance>
+        <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>3</heatPerSecond>
+      </li>
+    </comps>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <researchPrerequisites>
+      <li>RC2_AdvancedBrewing</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>

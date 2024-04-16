@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="RC2_AlcoholBase" ParentName="DrugBase" Abstract="True">
+    <descriptionHyperlinks>
+      <HediffDef>AlcoholHigh</HediffDef>
+      <HediffDef>AlcoholTolerance</HediffDef>
+      <HediffDef>Hangover</HediffDef>
+      <HediffDef>AlcoholAddiction</HediffDef>
+      <HediffDef>Cirrhosis</HediffDef>
+      <HediffDef>ChemicalDamageModerate</HediffDef>
+    </descriptionHyperlinks>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <thingCategories>
+      <li>RC2_Alcohol</li>
+    </thingCategories>
+    <pathCost>15</pathCost>
+    <ingestible>
+      <chairSearchRadius>25</chairSearchRadius>
+    </ingestible>
+  </ThingDef>
+</Defs>

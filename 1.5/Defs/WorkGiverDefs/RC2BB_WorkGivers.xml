@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkGiverDef>
+    <defName>RC_DoBillsBrew</defName>
+    <label>brew and distill alcohol</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>RC2_Brewing</workType>
+    <priorityInType>100</priorityInType>
+    <fixedBillGiverDefs>
+      <li>Brewery</li>
+      <li>RC2_BrewingSpot</li>
+      <li>RC2_ElectricBrewery</li>
+      <li>RC2_Distiller</li>
+      <li>RC2_ElectricDistiller</li>
+    </fixedBillGiverDefs>
+    <verb>brew</verb>
+    <gerund>brewing at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+</Defs>
