@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RecipeDef ParentName="RC2_CookJoyMealBase">
     <defName>RC2_MakeVegetableJuiceBulk</defName>
@@ -216,7 +216,7 @@
       </li>
     </ingredients>
     <products>
-      <RC2_EnergyDrink>5</RC2_EnergyDrink>
+      <RC2_EnergyDrink>25</RC2_EnergyDrink>
     </products>
     <fixedIngredientFilter>
       <thingDefs>

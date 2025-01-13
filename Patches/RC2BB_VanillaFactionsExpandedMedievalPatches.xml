@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <!-- Changes the name of stuff as to not clash with the stuff in the VFE Medival mod -->
   <Operation Class="PatchOperationConditional">

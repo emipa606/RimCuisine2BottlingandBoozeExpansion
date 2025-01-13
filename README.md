@@ -1,23 +1,21 @@
-# RimCuisine2BottlingandBoozeExpansion
+# [RimCuisine 2: Bottling and Booze Expansion (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2069596932)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Crustypeanuts mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1833592532
 
-[strike]- Added a patch that renames the label of Wine if VFE-mod is loaded as it also has a Wine-def.
-- The 1.3 mod now uses the https://steamcommunity.com/sharedfiles/filedetails/?id=2558008936]Universal Fermenter instead of the previously included Expandable Fermenting
-- UF code by Charlotte[/strike]
-- As the Universal Fermenter has been superseded by https://steamcommunity.com/sharedfiles/filedetails/?id=2633514537][SYR] Processor Framework the mod has been updated to use this instead.
+~~- Added a patch that renames the label of Wine if VFE-mod is loaded as it also has a Wine-def.
+- The 1.3 mod now uses the [Universal Fermenter](https://steamcommunity.com/sharedfiles/filedetails/?id=2558008936) instead of the previously included Expandable Fermenting
+- UF code by Charlotte~~
+- As the Universal Fermenter has been superseded by [[SYR] Processor Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=2633514537) the mod has been updated to use this instead.
 - The old UF-patch will still work to not loose any ongoing fermenting progress.
 - The old fermenting barrels are removed in 1.3
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=766264659]Misc. Bees'n'Honey via The Manual
+- Added support for [Misc. Bees'n'Honey](https://steamcommunity.com/sharedfiles/filedetails/?id=766264659) via The Manual
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 **RimCuisine 2: Bottling and Booze Expansion for 1.0**
 
@@ -59,13 +57,12 @@ Same compatibilities as RimCuisine 2! Go read my rant over there! ;)
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2069596932]![Image](https://img.shields.io/github/v/release/emipa606/RimCuisine2BottlingandBoozeExpansion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/RimCuisine2BottlingandBoozeExpansion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2069596932) | tags:  distillation,  fermentation

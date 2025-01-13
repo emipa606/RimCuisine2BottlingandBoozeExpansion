@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <!--The following patches all look for the RimCuisine 2: Meals and Munchies submod and adds bulk recipes to the Cook-o-matic.  Otherwise, they aren't added.-->
   <Operation Class="PatchOperationFindMod">
