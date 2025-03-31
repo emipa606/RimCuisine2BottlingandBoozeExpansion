@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2BottlingandBoozeExpansion
 
+1.5.2 - Updated the reference to the updated Processor Framework
+
+
 1.5.1 - Fixed the bulk energy drink recipe
 
 
