@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambrosia nectar withdrawal -->
+  <RC2_AmbrosiaAlcoholWithdrawal.stages.ambrosia_nectar_withdrawal.label>ambrosia nectar withdrawal</RC2_AmbrosiaAlcoholWithdrawal.stages.ambrosia_nectar_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of of that time I tasted the nectar of the gods.  Nothing feels good anymore.  I need more. -->
+  <RC2_AmbrosiaAlcoholWithdrawal.stages.ambrosia_nectar_withdrawal.description>Feeling shaky. Everything pisses me off. I keep thinking of of that time I tasted the nectar of the gods.  Nothing feels good anymore.  I need more.</RC2_AmbrosiaAlcoholWithdrawal.stages.ambrosia_nectar_withdrawal.description>
+  <!-- EN: alcohol warmth on nectar -->
+  <RC2_AmbrosiaInebriated.stages.alcohol_warmth_on_nectar.label>alcohol warmth on nectar</RC2_AmbrosiaInebriated.stages.alcohol_warmth_on_nectar.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <RC2_AmbrosiaInebriated.stages.alcohol_warmth_on_nectar.description>I just feel a bit more relaxed after that drink. That's good.</RC2_AmbrosiaInebriated.stages.alcohol_warmth_on_nectar.description>
+  <!-- EN: quite inebriated on nectar -->
+  <RC2_AmbrosiaInebriated.stages.quite_inebriated_on_nectar.label>quite inebriated on nectar</RC2_AmbrosiaInebriated.stages.quite_inebriated_on_nectar.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <RC2_AmbrosiaInebriated.stages.quite_inebriated_on_nectar.description>I'm a bit wobbly! And this is quite enjoyable.</RC2_AmbrosiaInebriated.stages.quite_inebriated_on_nectar.description>
+  <!-- EN: drunk on nectar -->
+  <RC2_AmbrosiaInebriated.stages.drunk_on_nectar.label>drunk on nectar</RC2_AmbrosiaInebriated.stages.drunk_on_nectar.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <RC2_AmbrosiaInebriated.stages.drunk_on_nectar.description>I feel so uninhibited and unafraid! This is a great time!</RC2_AmbrosiaInebriated.stages.drunk_on_nectar.description>
+  <!-- EN: hammered on nectar -->
+  <RC2_AmbrosiaInebriated.stages.hammered_on_nectar.label>hammered on nectar</RC2_AmbrosiaInebriated.stages.hammered_on_nectar.label>
+  <!-- EN: Wooo! What's going on? -->
+  <RC2_AmbrosiaInebriated.stages.hammered_on_nectar.description>Wooo! What's going on?</RC2_AmbrosiaInebriated.stages.hammered_on_nectar.description>
+</LanguageData>

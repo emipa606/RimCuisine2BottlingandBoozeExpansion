@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambrosia nectar addiction -->
+  <RC2_AmbrosiaAlcoholAddiction.label>ambrosia nectar addiction</RC2_AmbrosiaAlcoholAddiction.label>
+  <!-- EN: Without ambrosia nectar, a pawn becomes depressed, aggressive and slow. They also become less tolerant to pain. -->
+  <RC2_AmbrosiaAlcoholAddiction.description>Without ambrosia nectar, a pawn becomes depressed, aggressive and slow. They also become less tolerant to pain.</RC2_AmbrosiaAlcoholAddiction.description>
+  <!-- EN: ambrosiawithdrawal -->
+  <RC2_AmbrosiaAlcoholAddiction.stages.ambrosiawithdrawal.label>ambrosiawithdrawal</RC2_AmbrosiaAlcoholAddiction.stages.ambrosiawithdrawal.label>
+  <!-- EN: ambrosia nectar -->
+  <RC2_AmbrosiaAlcoholHigh.label>ambrosia nectar</RC2_AmbrosiaAlcoholHigh.label>
+  <!-- EN: Ambrosia Nectar is alcohol, but it can't knock you out. It also is always addictive, and never leaves the system. It also improves mood drastically. -->
+  <RC2_AmbrosiaAlcoholHigh.description>Ambrosia Nectar is alcohol, but it can't knock you out. It also is always addictive, and never leaves the system. It also improves mood drastically.</RC2_AmbrosiaAlcoholHigh.description>
+  <!-- EN: warm on nectar -->
+  <RC2_AmbrosiaAlcoholHigh.stages.warm_on_nectar.label>warm on nectar</RC2_AmbrosiaAlcoholHigh.stages.warm_on_nectar.label>
+  <!-- EN: tipsy on nectar -->
+  <RC2_AmbrosiaAlcoholHigh.stages.tipsy_on_nectar.label>tipsy on nectar</RC2_AmbrosiaAlcoholHigh.stages.tipsy_on_nectar.label>
+  <!-- EN: drunk on nectar -->
+  <RC2_AmbrosiaAlcoholHigh.stages.drunk_on_nectar.label>drunk on nectar</RC2_AmbrosiaAlcoholHigh.stages.drunk_on_nectar.label>
+  <!-- EN: hammered on nectar -->
+  <RC2_AmbrosiaAlcoholHigh.stages.hammered_on_nectar.label>hammered on nectar</RC2_AmbrosiaAlcoholHigh.stages.hammered_on_nectar.label>
+</LanguageData>

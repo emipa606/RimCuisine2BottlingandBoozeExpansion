@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brew and distill alcohol -->
+  <RC_DoBillsBrew.label>brew and distill alcohol</RC_DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <RC_DoBillsBrew.gerund>brewing at</RC_DoBillsBrew.gerund>
+  <!-- EN: brew -->
+  <RC_DoBillsBrew.verb>brew</RC_DoBillsBrew.verb>
+</LanguageData>

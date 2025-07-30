@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambrosia nectar -->
+  <RC2_AmbrosiaNectar.label>ambrosia nectar</RC2_AmbrosiaNectar.label>
+  <!-- EN: Ambrosia Nectar, known by a number of different names including 'nectar of the gods' by tribal societies, is a unique and extremely potent alcoholic beverage.  Utterly addictive, once someone has tasted this heavenly drink, nothing ever quite tastes or feels the same again.  Those inebriated by it feel happy and fuzzy, but are about as useful as a drunken sot while inebriated. -->
+  <RC2_AmbrosiaNectar.description>Ambrosia Nectar, known by a number of different names including 'nectar of the gods' by tribal societies, is a unique and extremely potent alcoholic beverage.  Utterly addictive, once someone has tasted this heavenly drink, nothing ever quite tastes or feels the same again.  Those inebriated by it feel happy and fuzzy, but are about as useful as a drunken sot while inebriated.</RC2_AmbrosiaNectar.description>
+  <!-- EN: Drink {0} -->
+  <RC2_AmbrosiaNectar.ingestible.ingestCommandString>Drink {0}</RC2_AmbrosiaNectar.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <RC2_AmbrosiaNectar.ingestible.ingestReportString>Drinking {0}.</RC2_AmbrosiaNectar.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fruit wine -->
+  <RC2_FruitWine.label>fruit wine</RC2_FruitWine.label>
+  <!-- EN: A broad term for wine made from any kind of fruit (including a mixture of fruits), fruit wine is less popular than grape wine but still quite good and comes in a wide variety of flavors. -->
+  <RC2_FruitWine.description>A broad term for wine made from any kind of fruit (including a mixture of fruits), fruit wine is less popular than grape wine but still quite good and comes in a wide variety of flavors.</RC2_FruitWine.description>
+  <!-- EN: Drink {0} -->
+  <RC2_FruitWine.ingestible.ingestCommandString>Drink {0}</RC2_FruitWine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <RC2_FruitWine.ingestible.ingestReportString>Drinking {0}.</RC2_FruitWine.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <RC2_FruitWine.tools.bottle.label>bottle</RC2_FruitWine.tools.bottle.label>
+  <!-- EN: neck -->
+  <RC2_FruitWine.tools.neck.label>neck</RC2_FruitWine.tools.neck.label>
+</LanguageData>

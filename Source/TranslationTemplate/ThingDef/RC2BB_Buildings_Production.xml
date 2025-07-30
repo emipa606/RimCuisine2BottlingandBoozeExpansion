@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brewing spot -->
+  <RC2_BrewingSpot.label>brewing spot</RC2_BrewingSpot.label>
+  <!-- EN: A place for preparing the precursors for some simple kinds of alcohol. -->
+  <RC2_BrewingSpot.description>A place for preparing the precursors for some simple kinds of alcohol.</RC2_BrewingSpot.description>
+  <!-- EN: distiller -->
+  <RC2_Distiller.label>distiller</RC2_Distiller.label>
+  <!-- EN: A set of wood-fueled equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present. Built sturdier than its electrically-powered cousin. -->
+  <RC2_Distiller.description>A set of wood-fueled equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present. Built sturdier than its electrically-powered cousin.</RC2_Distiller.description>
+  <!-- EN: electric brewery -->
+  <RC2_ElectricBrewery.label>electric brewery</RC2_ElectricBrewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort, mash, and must for alcohol production. Powered version improved performance. -->
+  <RC2_ElectricBrewery.description>A work station with all the equipment needed to mix wort, mash, and must for alcohol production. Powered version improved performance.</RC2_ElectricBrewery.description>
+  <!-- EN: electric distiller -->
+  <RC2_ElectricDistiller.label>electric distiller</RC2_ElectricDistiller.label>
+  <!-- EN: A set of equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present.  Powered by electricity. -->
+  <RC2_ElectricDistiller.description>A set of equipment required for the distillation of spirits and liquors.  Prone to exploding when damaged thanks to the alcohol vapor that is usually present.  Powered by electricity.</RC2_ElectricDistiller.description>
+</LanguageData>

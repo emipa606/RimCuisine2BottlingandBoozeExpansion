@@ -2,11 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5",
+  "PreviewVersion": "1.6",
   "SocialImageSet": true,
   "SearchTags": [
     " distillation",
     " fermentation"
   ],
-  "LastXmlCleaning": "2025-03-31T21:40:27.4195361+02:00"
+  "LastXmlCleaning": "2025-07-30T15:58:19.5054849+02:00",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 2850,
+  "LinesOfXML": 181643,
+  "CodeBaseSize": 83
 }

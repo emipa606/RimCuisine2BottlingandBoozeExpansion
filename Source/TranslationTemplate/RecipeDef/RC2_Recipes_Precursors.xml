@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make barley wort -->
+  <Make_Wort.label>make barley wort</Make_Wort.label>
+  <!-- EN: Make wort from barley and hops for beer. -->
+  <Make_Wort.description>Make wort from barley and hops for beer.</Make_Wort.description>
+  <!-- EN: Making wort. -->
+  <Make_Wort.jobString>Making wort.</Make_Wort.jobString>
+  <!-- EN: distill arrack -->
+  <RC2_Distill_Arrack.label>distill arrack</RC2_Distill_Arrack.label>
+  <!-- EN: Distill arrack from coconut wort. -->
+  <RC2_Distill_Arrack.description>Distill arrack from coconut wort.</RC2_Distill_Arrack.description>
+  <!-- EN: Distilling arrack. -->
+  <RC2_Distill_Arrack.jobString>Distilling arrack.</RC2_Distill_Arrack.jobString>
+  <!-- EN: distill brandy -->
+  <RC2_Distill_Brandy.label>distill brandy</RC2_Distill_Brandy.label>
+  <!-- EN: Distill brandy from wine. -->
+  <RC2_Distill_Brandy.description>Distill brandy from wine.</RC2_Distill_Brandy.description>
+  <!-- EN: Distilling brandy. -->
+  <RC2_Distill_Brandy.jobString>Distilling brandy.</RC2_Distill_Brandy.jobString>
+  <!-- EN: distill moonshine -->
+  <RC2_Distill_Moonshine.label>distill moonshine</RC2_Distill_Moonshine.label>
+  <!-- EN: Distill moonshine from moonshine precursor. -->
+  <RC2_Distill_Moonshine.description>Distill moonshine from moonshine precursor.</RC2_Distill_Moonshine.description>
+  <!-- EN: Distilling moonshine. -->
+  <RC2_Distill_Moonshine.jobString>Distilling moonshine.</RC2_Distill_Moonshine.jobString>
+  <!-- EN: distill rum -->
+  <RC2_Distill_Rum.label>distill rum</RC2_Distill_Rum.label>
+  <!-- EN: Distill Rum from sugarcane wort. -->
+  <RC2_Distill_Rum.description>Distill Rum from sugarcane wort.</RC2_Distill_Rum.description>
+  <!-- EN: Distilling rum. -->
+  <RC2_Distill_Rum.jobString>Distilling rum.</RC2_Distill_Rum.jobString>
+  <!-- EN: distill tequila -->
+  <RC2_Distill_Tequila.label>distill tequila</RC2_Distill_Tequila.label>
+  <!-- EN: Distill Tequila from Agave Mosto. -->
+  <RC2_Distill_Tequila.description>Distill Tequila from Agave Mosto.</RC2_Distill_Tequila.description>
+  <!-- EN: Distilling Tequila. -->
+  <RC2_Distill_Tequila.jobString>Distilling Tequila.</RC2_Distill_Tequila.jobString>
+  <!-- EN: distill vodka -->
+  <RC2_Distill_Vodka.label>distill vodka</RC2_Distill_Vodka.label>
+  <!-- EN: Distill Vodka from potato mash. -->
+  <RC2_Distill_Vodka.description>Distill Vodka from potato mash.</RC2_Distill_Vodka.description>
+  <!-- EN: Distilling vodka. -->
+  <RC2_Distill_Vodka.jobString>Distilling vodka.</RC2_Distill_Vodka.jobString>
+  <!-- EN: distill whiskey -->
+  <RC2_Distill_Whiskey.label>distill whiskey</RC2_Distill_Whiskey.label>
+  <!-- EN: Distill whiskey from corn mash. -->
+  <RC2_Distill_Whiskey.description>Distill whiskey from corn mash.</RC2_Distill_Whiskey.description>
+  <!-- EN: Distilling whiskey. -->
+  <RC2_Distill_Whiskey.jobString>Distilling whiskey.</RC2_Distill_Whiskey.jobString>
+  <!-- EN: make ambrosia must -->
+  <RC2_Make_AmbrosiaMust.label>make ambrosia must</RC2_Make_AmbrosiaMust.label>
+  <!-- EN: Carefully make must from ambrosia. -->
+  <RC2_Make_AmbrosiaMust.description>Carefully make must from ambrosia.</RC2_Make_AmbrosiaMust.description>
+  <!-- EN: Making must. -->
+  <RC2_Make_AmbrosiaMust.jobString>Making must.</RC2_Make_AmbrosiaMust.jobString>
+  <!-- EN: make apple must -->
+  <RC2_Make_AppleMust.label>make apple must</RC2_Make_AppleMust.label>
+  <!-- EN: Make must from apples for cider. -->
+  <RC2_Make_AppleMust.description>Make must from apples for cider.</RC2_Make_AppleMust.description>
+  <!-- EN: Making must. -->
+  <RC2_Make_AppleMust.jobString>Making must.</RC2_Make_AppleMust.jobString>
+  <!-- EN: distill rectified spirits -->
+  <RC2_Make_Everclear.label>distill rectified spirits</RC2_Make_Everclear.label>
+  <!-- EN: Make rectified spirits from vodka. -->
+  <RC2_Make_Everclear.description>Make rectified spirits from vodka.</RC2_Make_Everclear.description>
+  <!-- EN: Making rectified spirits. -->
+  <RC2_Make_Everclear.jobString>Making rectified spirits.</RC2_Make_Everclear.jobString>
+  <!-- EN: make fruit must -->
+  <RC2_Make_FruitMust.label>make fruit must</RC2_Make_FruitMust.label>
+  <!-- EN: Make must from fruit for fruit wine.  Cannot be made with pecans or breadfruit. -->
+  <RC2_Make_FruitMust.description>Make must from fruit for fruit wine.  Cannot be made with pecans or breadfruit.</RC2_Make_FruitMust.description>
+  <!-- EN: Making must. -->
+  <RC2_Make_FruitMust.jobString>Making must.</RC2_Make_FruitMust.jobString>
+  <!-- EN: make gin precursor -->
+  <RC2_Make_GinPrecursor.label>make gin precursor</RC2_Make_GinPrecursor.label>
+  <!-- EN: Make gin precursor from juniper berries and vodka. -->
+  <RC2_Make_GinPrecursor.description>Make gin precursor from juniper berries and vodka.</RC2_Make_GinPrecursor.description>
+  <!-- EN: Making gin precursor. -->
+  <RC2_Make_GinPrecursor.jobString>Making gin precursor.</RC2_Make_GinPrecursor.jobString>
+  <!-- EN: make grape must -->
+  <RC2_Make_GrapeMust.label>make grape must</RC2_Make_GrapeMust.label>
+  <!-- EN: Make must from grapes for wine. -->
+  <RC2_Make_GrapeMust.description>Make must from grapes for wine.</RC2_Make_GrapeMust.description>
+  <!-- EN: Making must. -->
+  <RC2_Make_GrapeMust.jobString>Making must.</RC2_Make_GrapeMust.jobString>
+  <!-- EN: make grog -->
+  <RC2_Make_Grog.label>make grog</RC2_Make_Grog.label>
+  <!-- EN: Water down some rum to make Grog.  Makes 4. -->
+  <RC2_Make_Grog.description>Water down some rum to make Grog.  Makes 4.</RC2_Make_Grog.description>
+  <!-- EN: Making grog. -->
+  <RC2_Make_Grog.jobString>Making grog.</RC2_Make_Grog.jobString>
+  <!-- EN: make honey must -->
+  <RC2_Make_HoneyMust.label>make honey must</RC2_Make_HoneyMust.label>
+  <!-- EN: Make must from honey for mead. -->
+  <RC2_Make_HoneyMust.description>Make must from honey for mead.</RC2_Make_HoneyMust.description>
+  <!-- EN: Making must. -->
+  <RC2_Make_HoneyMust.jobString>Making must.</RC2_Make_HoneyMust.jobString>
+  <!-- EN: make kumis must -->
+  <RC2_Make_KumisMust.label>make kumis must</RC2_Make_KumisMust.label>
+  <!-- EN: Make must from milk. -->
+  <RC2_Make_KumisMust.description>Make must from milk.</RC2_Make_KumisMust.description>
+  <!-- EN: Making must. -->
+  <RC2_Make_KumisMust.jobString>Making must.</RC2_Make_KumisMust.jobString>
+  <!-- EN: make moonshine precursor -->
+  <RC2_Make_MoonshinePrecursor.label>make moonshine precursor</RC2_Make_MoonshinePrecursor.label>
+  <!-- EN: Make moonshine precursor from corn mash and chemfuel. Corn mash is made in a whiskey barrel. -->
+  <RC2_Make_MoonshinePrecursor.description>Make moonshine precursor from corn mash and chemfuel. Corn mash is made in a whiskey barrel.</RC2_Make_MoonshinePrecursor.description>
+  <!-- EN: Making moonshine precursor. -->
+  <RC2_Make_MoonshinePrecursor.jobString>Making moonshine precursor.</RC2_Make_MoonshinePrecursor.jobString>
+  <!-- EN: make oat wort -->
+  <RC2_Make_OatWort.label>make oat wort</RC2_Make_OatWort.label>
+  <!-- EN: Make wort from oats and hops for stout. -->
+  <RC2_Make_OatWort.description>Make wort from oats and hops for stout.</RC2_Make_OatWort.description>
+  <!-- EN: Making wort. -->
+  <RC2_Make_OatWort.jobString>Making wort.</RC2_Make_OatWort.jobString>
+  <!-- EN: make rice mash -->
+  <RC2_Make_RiceMash.label>make rice mash</RC2_Make_RiceMash.label>
+  <!-- EN: Make mash from rice for sake. -->
+  <RC2_Make_RiceMash.description>Make mash from rice for sake.</RC2_Make_RiceMash.description>
+  <!-- EN: Making mash. -->
+  <RC2_Make_RiceMash.jobString>Making mash.</RC2_Make_RiceMash.jobString>
+  <!-- EN: make wheat wort -->
+  <RC2_Make_WheatWort.label>make wheat wort</RC2_Make_WheatWort.label>
+  <!-- EN: Make wort from wheat and hops for ale. -->
+  <RC2_Make_WheatWort.description>Make wort from wheat and hops for ale.</RC2_Make_WheatWort.description>
+  <!-- EN: Making wort. -->
+  <RC2_Make_WheatWort.jobString>Making wort.</RC2_Make_WheatWort.jobString>
+</LanguageData>

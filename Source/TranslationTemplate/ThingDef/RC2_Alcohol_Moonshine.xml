@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: moonshine -->
+  <RC2_Moonshine.label>moonshine</RC2_Moonshine.label>
+  <!-- EN: Although technically any form of distilled beverage made illegally at home (or just at home, depending on the culture), moonshine out on the rimworlds is usually made from whatever kind of fermented grains and then spiked with chemfuel and distilled.  Very volatile and very potent.  Perfect for the average rimworlder. -->
+  <RC2_Moonshine.description>Although technically any form of distilled beverage made illegally at home (or just at home, depending on the culture), moonshine out on the rimworlds is usually made from whatever kind of fermented grains and then spiked with chemfuel and distilled.  Very volatile and very potent.  Perfect for the average rimworlder.</RC2_Moonshine.description>
+  <!-- EN: Drink {0} -->
+  <RC2_Moonshine.ingestible.ingestCommandString>Drink {0}</RC2_Moonshine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <RC2_Moonshine.ingestible.ingestReportString>Drinking {0}.</RC2_Moonshine.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <RC2_Moonshine.tools.bottle.label>bottle</RC2_Moonshine.tools.bottle.label>
+  <!-- EN: neck -->
+  <RC2_Moonshine.tools.neck.label>neck</RC2_Moonshine.tools.neck.label>
+</LanguageData>

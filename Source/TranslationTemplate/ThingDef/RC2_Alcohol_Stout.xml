@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stout -->
+  <RC2_Stout.label>stout</RC2_Stout.label>
+  <!-- EN: Sporting a deeper flavor and darker color than other beers, Stout is popluar top-fermented beer usually made from oats out on the rim. -->
+  <RC2_Stout.description>Sporting a deeper flavor and darker color than other beers, Stout is popluar top-fermented beer usually made from oats out on the rim.</RC2_Stout.description>
+  <!-- EN: Drink {0} -->
+  <RC2_Stout.ingestible.ingestCommandString>Drink {0}</RC2_Stout.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <RC2_Stout.ingestible.ingestReportString>Drinking {0}.</RC2_Stout.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <RC2_Stout.tools.bottle.label>bottle</RC2_Stout.tools.bottle.label>
+  <!-- EN: neck -->
+  <RC2_Stout.tools.neck.label>neck</RC2_Stout.tools.neck.label>
+</LanguageData>

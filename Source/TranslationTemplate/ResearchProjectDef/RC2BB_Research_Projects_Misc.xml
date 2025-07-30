@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: basic brewing -->
+  <Brewing.label>basic brewing</Brewing.label>
+  <!-- EN: Build a brewery in order to begin brewing tasty beer, kumis, and wine! -->
+  <Brewing.description>Build a brewery in order to begin brewing tasty beer, kumis, and wine!</Brewing.description>
+  <!-- EN: advanced brewing -->
+  <RC2_AdvancedBrewing.label>advanced brewing</RC2_AdvancedBrewing.label>
+  <!-- EN: Learn how to build a distillery to brew the strongest of alcohols and spirits! -->
+  <RC2_AdvancedBrewing.description>Learn how to build a distillery to brew the strongest of alcohols and spirits!</RC2_AdvancedBrewing.description>
+  <!-- EN: intermediate brewing -->
+  <RC2_IntermediateBrewing.label>intermediate brewing</RC2_IntermediateBrewing.label>
+  <!-- EN: Expand your alcoholic nature by being able to brew a whole bunch of new stuff! -->
+  <RC2_IntermediateBrewing.description>Expand your alcoholic nature by being able to brew a whole bunch of new stuff!</RC2_IntermediateBrewing.description>
+</LanguageData>

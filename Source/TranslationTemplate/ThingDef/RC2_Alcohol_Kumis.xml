@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: kumis -->
+  <RC2_Kumis.label>kumis</RC2_Kumis.label>
+  <!-- EN: Kumis, made from milk (often horses milk, but any will work), is a lightly alcoholic beverage favored by nomads. -->
+  <RC2_Kumis.description>Kumis, made from milk (often horses milk, but any will work), is a lightly alcoholic beverage favored by nomads.</RC2_Kumis.description>
+  <!-- EN: Drink {0} -->
+  <RC2_Kumis.ingestible.ingestCommandString>Drink {0}</RC2_Kumis.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <RC2_Kumis.ingestible.ingestReportString>Drinking {0}.</RC2_Kumis.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <RC2_Kumis.tools.bottle.label>bottle</RC2_Kumis.tools.bottle.label>
+  <!-- EN: neck -->
+  <RC2_Kumis.tools.neck.label>neck</RC2_Kumis.tools.neck.label>
+</LanguageData>

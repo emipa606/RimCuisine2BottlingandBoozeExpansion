@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hot cocoa warmth -->
+  <RC2_HotCocoa.label>hot cocoa warmth</RC2_HotCocoa.label>
+  <!-- EN: Increases tolerance to the cold outdoors. -->
+  <RC2_HotCocoa.description>Increases tolerance to the cold outdoors.</RC2_HotCocoa.description>
+  <!-- EN: a hot cocoa warmth -->
+  <RC2_HotCocoa.labelNoun>a hot cocoa warmth</RC2_HotCocoa.labelNoun>
+  <!-- EN: cooled down by iced tea -->
+  <RC2_IcedTea.label>cooled down by iced tea</RC2_IcedTea.label>
+  <!-- EN: Increases tolerance to the hot summer weather. -->
+  <RC2_IcedTea.description>Increases tolerance to the hot summer weather.</RC2_IcedTea.description>
+</LanguageData>

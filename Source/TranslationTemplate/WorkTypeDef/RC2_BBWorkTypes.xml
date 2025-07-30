@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Brew and distill alcohol. -->
+  <RC2_Brewing.description>Brew and distill alcohol.</RC2_Brewing.description>
+  <!-- EN: brewing -->
+  <RC2_Brewing.gerundLabel>brewing</RC2_Brewing.gerundLabel>
+  <!-- EN: Brewer -->
+  <RC2_Brewing.labelShort>Brewer</RC2_Brewing.labelShort>
+  <!-- EN: Brewer -->
+  <RC2_Brewing.pawnLabel>Brewer</RC2_Brewing.pawnLabel>
+  <!-- EN: Brew -->
+  <RC2_Brewing.verb>Brew</RC2_Brewing.verb>
+</LanguageData>

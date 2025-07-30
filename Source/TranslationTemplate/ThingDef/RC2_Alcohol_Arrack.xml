@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: arrack -->
+  <RC2_Arrack.label>arrack</RC2_Arrack.label>
+  <!-- EN: Made from Coconut flower sap, Arrack is a strong distilled beverages.  Local varieties use the entire coconut for flavoring as well. -->
+  <RC2_Arrack.description>Made from Coconut flower sap, Arrack is a strong distilled beverages.  Local varieties use the entire coconut for flavoring as well.</RC2_Arrack.description>
+  <!-- EN: Drink {0} -->
+  <RC2_Arrack.ingestible.ingestCommandString>Drink {0}</RC2_Arrack.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <RC2_Arrack.ingestible.ingestReportString>Drinking {0}.</RC2_Arrack.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <RC2_Arrack.tools.bottle.label>bottle</RC2_Arrack.tools.bottle.label>
+  <!-- EN: neck -->
+  <RC2_Arrack.tools.neck.label>neck</RC2_Arrack.tools.neck.label>
+</LanguageData>
