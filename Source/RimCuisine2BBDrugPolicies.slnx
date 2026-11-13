@@ -6,4 +6,76 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="RimCuisine2BBDrugPolicies/RimCuisine2BBDrugPolicies.csproj" />
+  <Folder Name="/XML/1.7/Defs/RC2_TraderKinds/">
+    <File Path="../1.7/Defs/RC2_TraderKinds/RC2BB_TraderKindDefs.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_ResearchProjectDefs/">
+    <File Path="../1.7/Defs/RC2_ResearchProjectDefs/RC2BB_Research_Projects_Misc.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_Drugs/">
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Ale.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_AmbrosiaNectar.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Arrack.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Brandy.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Cider.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Everclear.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_FruitWine.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Gin.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Grog.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Kumis.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Mead.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Moonshine.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Rum.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Sake.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Stout.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Tequila.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Vodka.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Whiskey.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_Alcohol_Wine.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2_DrugBases.xml" />
+    <File Path="../1.7/Defs/RC2_Drugs/RC2BB_Hediffs.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Patches/">
+    <File Path="../1.7/Patches/UF_Patch.xml" />
+    <File Path="../1.7/Patches/UP_Patch.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/">
+    <File Path="../Patches/Misc_Bees'n'HoneyPatch.xml" />
+    <File Path="../Patches/RC2BB_MealsandMunchiesPatch.xml" />
+    <File Path="../Patches/RC2BB_TraderkindPatch.xml" />
+    <File Path="../Patches/RC2BB_VanillaFactionsExpandedMedievalPatches.xml" />
+    <File Path="../Patches/RC2BB_VanillaPatches.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_ThingDefs_Buildings/">
+    <File Path="../1.7/Defs/RC2_ThingDefs_Buildings/RC2BB_Buildings_Production.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_Joy/">
+    <File Path="../1.7/Defs/RC2_Joy/RC2_JoyGivers.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_ThingDefs/">
+    <File Path="../1.7/Defs/RC2_ThingDefs/RC2BB_Items_Drinks.xml" />
+    <File Path="../1.7/Defs/RC2_ThingDefs/RC2BB_Precursors.xml" />
+    <File Path="../1.7/Defs/RC2_ThingDefs/RC2BB_ThingCategories.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/FloatMenu.xml" />
+    <File Path="../Languages/English/Keyed/Misc_Gameplay.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_Processes/">
+    <File Path="../1.7/Defs/RC2_Processes/RC2_Processes_Drinks.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_Worktypes/">
+    <File Path="../1.7/Defs/RC2_Worktypes/RC2_BBWorkTypes.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/WorkGiverDefs/">
+    <File Path="../1.7/Defs/WorkGiverDefs/RC2BB_WorkGivers.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RC2_RecipeDefs/">
+    <File Path="../1.7/Defs/RC2_RecipeDefs/RC2_Recipes_Precursors.xml" />
+    <File Path="../1.7/Defs/RC2_RecipeDefs/RC2BB_Recipe_BulkFood.xml" />
+    <File Path="../1.7/Defs/RC2_RecipeDefs/RC2BB_Recipe_JoyMeals.xml" />
+  </Folder>
 </Solution>
